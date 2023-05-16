@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">UTS_BotNav&amp;RecView</string>
+    <string name="char_name">Nama Karakter</string>
+    <string name="char_desc">Deskripsi Karakter</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    //nama char
+    <string name="aldouss">Aldouss</string>
+    <string name="chou">Chou</string>
+    <string name="dyrrothh">Dyrroth</string>
+    <string name="jawhead">Jawhead</string>
+    <string name="martis">Martis</string>
+    <string name="roger">Roger</string>
+    <string name="silvanna">Silvanna</string>
+    <string name="xbrog">Xborg</string>
+    <string name="yin">Yin</string>
+    <string name="yuzhong">Yuzhong</string>
+    //desc char
+    <string name="desc_aldouss">Ini Adalah Hero Aldous.</string>
+    <string name="desc_domestik">Ini Adalah Hero Chou</string>
+    <string name="desc_maininecoon">Ini Adalah Hero Dyrroth</string>
+    <string name="desc_munchkin">Ini Adalah Hero Jawhead</string>
+    <string name="desc_persia">Ini Adalah Hero Martis</string>
+    <string name="desc_ragdoll">Ini Adalah Hero Roger</string>
+    <string name="desc_russianblue">Ini Adalah Hero Silvanna</string>
+    <string name="desc_scottishflod">Ini Adalah Hero Xborg</string>
+    <string name="desc_siam">Ini Adalah Hero Yin</string>
+    <string name="desc_sphynx">Ini Adalah Hero Yuzhong</string>
+    //profile
+    <string name="dika">Andika Pratama</string>
+    <string name="desc_dika">NIM : 2010031806002  E-Mail : andikap5637@gmail.com</string>
+    <string name="textview">TextView</string>
+    <string name="Textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="daftar_artis_korea">Daftar Artis Korea</string>
+    <string name="Todo">TODO</string>
+    <string name="TOdo">TODO</string>
+    <string name="LASTIAR">Lastiar Arini</string>
+    <string name="TETHI">TETHI</string>
+    <string name="daftar_hero_mobile_legends">daftar_hero_mobile_legends</string>
+    <string name="tethi">tethi</string>
+</resources>
+
